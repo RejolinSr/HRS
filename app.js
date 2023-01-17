@@ -19,3 +19,9 @@ app.get ("/",(request,response)=>{
 
 
 module.exports = app;
+
+
+
+a= 3
+b = 4
+console.log(a+b)
