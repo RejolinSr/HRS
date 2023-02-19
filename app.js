@@ -9,6 +9,8 @@ const indexcontrolller = require("./controller/index");
 
 app.use("/rejo",usermodel.User);
 
+njwn
+
 
 
 app.use("/name", indexcontrolller.getuser); 
